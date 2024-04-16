@@ -2,6 +2,8 @@
 
 // author: Денисова Екатерина
 
+//136н. Даны натуральное число n, действительные числа a1,..., an. Вычислить:
+// sum((sqrt(abs(a[i])) - a[i])^2)
 #include <iostream>
 #include <omp.h> // openMP
 #include <cmath>
